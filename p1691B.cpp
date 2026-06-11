@@ -10,7 +10,7 @@ void solve() {
     for (int i = 0; i < n; i++) {
         cin >> s[i];
     }
-
+`
     vector<int> ans(n);
     int left = 0;
 
